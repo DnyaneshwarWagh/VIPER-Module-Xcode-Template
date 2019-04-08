@@ -30,7 +30,7 @@
 			<key>Identifier</key>
 			<string>SERVICENAME</string>
 			<key>Name</key>
-			<string>Module name</string>
+			<string>VIPER module name</string>
 			<key>Required</key>
 			<string>YES</string>
 			<key>Type</key>
