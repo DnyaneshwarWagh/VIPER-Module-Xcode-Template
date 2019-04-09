@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  Install VIPER Template
+//  Install VIPER Module Xcode Template
 //
 //  Created by Dyaneshwar Wagh on 08/04/19.
 //
